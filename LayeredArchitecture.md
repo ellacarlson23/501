@@ -71,4 +71,4 @@ Consider an insurance company's business process triggered by a customer's reloc
 
 In contrast, a mediator topology introduces an additional architectural component: the event mediator. This mediator orchestrates interactions between components and ensures that
 
-
+Why do we have them, when and where would we use them, advantages and disadvantages of both
